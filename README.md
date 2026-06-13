@@ -1,2 +1,16 @@
 # Prompt-Assignment
 Prompt Assignment
+
+
+The major difference betwwen weak and strong Prompt is:
+1)
+Weak Prompt: AI has to guess the business logic, leading to generic "happy path" cases you already know.
+Strong Prompt: Defines the user persona, and business rules (e.g., file upload check
+
+2) 
+Weak Prompt: Accepts whatever format the AI spits out (usually a random bulleted list).
+Strong Prompt: Dictates the exact structure required for your test management tools, such as demanding columns for Preconditions, Test Steps, and Expected Results.
+
+3) 
+Weak Prompt: Misses critical security, boundary, and negative scenarios because it didn't ask the AI to dig deeper.
+Strong Prompt: Explicitly forces the AI to think about boundary value analysis, equivalence partitioning, and security risks
