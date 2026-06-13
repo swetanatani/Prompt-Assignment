@@ -1,8 +1,9 @@
 # Prompt-Assignment
 Prompt Assignment
 
-
 The major difference betwwen weak and strong Prompt is:
+
+
 1)
 Weak Prompt: AI has to guess the business logic, leading to generic "happy path" cases you already know.
 Strong Prompt: Defines the user persona, and business rules (e.g., file upload check
